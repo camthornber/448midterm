@@ -1,0 +1,1348 @@
+Question,Source,label,predicted_label,predicted_source
+How does a stack differ from a queue?,ChatGPT,0,0,ChatGPT
+Explain the concept of recursion with an example.,ChatGPT,0,2,Gemini
+What is a heap? Min-heap vs Max-heap.,ChatGPT,0,2,Gemini
+What are greedy algorithms? Give an example.,ChatGPT,0,0,ChatGPT
+Explain the concept of backtracking.,ChatGPT,0,0,ChatGPT
+What are the different types of operating systems?,ChatGPT,0,0,ChatGPT
+Explain paging and segmentation.,ChatGPT,0,0,ChatGPT
+What is a race condition?,ChatGPT,0,0,ChatGPT
+Difference between kernel mode and user mode.,ChatGPT,0,2,Gemini
+What is IP addressing (IPv4 vs IPv6)?,ChatGPT,0,0,ChatGPT
+What is bandwidth vs latency?,ChatGPT,0,1,Claude
+What is indexing in databases?,ChatGPT,0,2,Gemini
+Explain ACID properties.,ChatGPT,0,2,Gemini
+What is a view in SQL?,ChatGPT,0,0,ChatGPT
+What are the main principles of OOP?,ChatGPT,0,2,Gemini
+What is polymorphism? Compile-time vs runtime.,ChatGPT,0,0,ChatGPT
+What is abstraction?,ChatGPT,0,2,Gemini
+What is method overloading vs overriding?,ChatGPT,0,0,ChatGPT
+What is the difference between interface and abstract class?,ChatGPT,0,0,ChatGPT
+How is memory managed in C vs Java?,ChatGPT,0,0,ChatGPT
+What is UML? Describe use-case and class diagrams.,ChatGPT,0,0,ChatGPT
+What is refactoring?,ChatGPT,0,0,ChatGPT
+Explain the difference between active and passive components.,ChatGPT,0,0,ChatGPT
+What is the significance of impedance and admittance?,ChatGPT,0,0,ChatGPT
+What is SCADA in power systems?,ChatGPT,0,2,Gemini
+What is corona loss?,ChatGPT,0,2,Gemini
+What is the function of a relay?,ChatGPT,0,0,ChatGPT
+What is stability in control systems?,ChatGPT,0,0,ChatGPT
+What is a CRO and how is it used?,ChatGPT,0,0,ChatGPT
+Explain the V-I characteristics of a thyristor.,ChatGPT,0,0,ChatGPT
+What is displacement current?,ChatGPT,0,0,ChatGPT
+How does a solar panel work?,ChatGPT,0,2,Gemini
+What is the difference between a normal and an inferior good?,ChatGPT,0,0,ChatGPT
+State the law of variable proportions.,ChatGPT,0,2,Gemini
+What is the kinked demand curve?,ChatGPT,0,2,Gemini
+"Explain GDP, GNP, NNP, and personal income.",ChatGPT,0,0,ChatGPT
+Explain the circular flow of income.,ChatGPT,0,0,ChatGPT
+What is public debt? How is it classified?,ChatGPT,0,0,ChatGPT
+What is the theory of comparative advantage?,ChatGPT,0,0,ChatGPT
+What is balance of trade?,ChatGPT,0,0,ChatGPT
+Explain exchange rate and its determination.,ChatGPT,0,0,ChatGPT
+What is inclusive growth?,ChatGPT,0,0,ChatGPT
+What is land reform?,ChatGPT,0,0,ChatGPT
+What is GST? Its advantages and limitations.,ChatGPT,0,0,ChatGPT
+What is disinvestment?,ChatGPT,0,0,ChatGPT
+What is financial inclusion?,ChatGPT,0,0,ChatGPT
+Discuss the concept of social control and its mechanisms in the context of Bangladesh.,ChatGPT,0,0,ChatGPT
+Discuss the role of women in the development of sociological thought.,ChatGPT,0,0,ChatGPT
+Discuss the role of education as a social institution in Bangladesh.,ChatGPT,0,0,ChatGPT
+Analyze the impact of globalization on traditional social institutions in Bangladesh.,ChatGPT,0,0,ChatGPT
+Explain the concept of social mobility. Discuss its types and factors influencing it in Bangladesh.,ChatGPT,0,2,Gemini
+Explain the concept of social exclusion. Discuss its manifestations in Bangladeshi society.,ChatGPT,0,0,ChatGPT
+Explain the concept of social movements. Discuss their role in social change in Bangladesh.,ChatGPT,0,0,ChatGPT
+Explain the concept of urban sociology. Discuss the characteristics of urban society in Bangladesh.,ChatGPT,0,0,ChatGPT
+Explain the concept of slums. Analyze their prevalence and problems in urban Bangladesh.,ChatGPT,0,0,ChatGPT
+Analyze the causes and consequences of poverty in Bangladesh.,ChatGPT,0,0,ChatGPT
+Discuss the problem of corruption in Bangladesh. Analyze its impact on society.,ChatGPT,0,0,ChatGPT
+Discuss the challenges of achieving sustainable development in Bangladesh.,ChatGPT,0,0,ChatGPT
+What are the functions of management?,ChatGPT,0,0,ChatGPT
+What is the difference between HRM and Personnel Management?,ChatGPT,0,0,ChatGPT
+What is brand management?,ChatGPT,0,0,ChatGPT
+What is the time value of money?,ChatGPT,0,2,Gemini
+What are the types of accounts?,ChatGPT,0,0,ChatGPT
+What is organizational culture?,ChatGPT,0,0,ChatGPT
+What is the role of operations management in manufacturing?,ChatGPT,0,0,ChatGPT
+What is Six Sigma?,ChatGPT,0,2,Gemini
+What is social entrepreneurship?,ChatGPT,0,0,ChatGPT
+What is pharmaceutics?,ChatGPT,0,0,ChatGPT
+What is bioavailability? How is it measured?,ChatGPT,0,0,ChatGPT
+Define sustained-release and controlled-release dosage forms.,ChatGPT,0,0,ChatGPT
+What are ointments and how are they prepared?,ChatGPT,0,0,ChatGPT
+What is the structure and function of aspirin?,ChatGPT,0,0,ChatGPT
+Explain the mechanism of action of penicillin.,ChatGPT,0,0,ChatGPT
+Define isomerism and its types.,ChatGPT,0,2,Gemini
+Classify plant-based drugs based on plant parts.,ChatGPT,0,0,ChatGPT
+What are glycosides? Give examples and uses.,ChatGPT,0,0,ChatGPT
+What are over-the-counter (OTC) drugs?,ChatGPT,0,0,ChatGPT
+What are essential drugs? Explain the concept.,ChatGPT,0,0,ChatGPT
+What are endotoxins and exotoxins?,ChatGPT,0,2,Gemini
+What is the role of vitamins in the human body?,ChatGPT,0,2,Gemini
+What are the biochemical roles of minerals?,ChatGPT,0,0,ChatGPT
+What is the Pharmacy Act of Bangladesh?,ChatGPT,0,0,ChatGPT
+What are the ethical responsibilities of a pharmacist?,ChatGPT,0,0,ChatGPT
+What are quality control and quality assurance?,ChatGPT,0,2,Gemini
+What is pharmacogenomics?,ChatGPT,0,0,ChatGPT
+What is the best strategy for reading comprehension in exams?,ChatGPT,0,0,ChatGPT
+What are common errors in English writing?,ChatGPT,0,0,ChatGPT
+What is plagiarism?,ChatGPT,0,0,ChatGPT
+What are the essentials of good communication?,ChatGPT,0,0,ChatGPT
+How do you start and end a conversation politely?,ChatGPT,0,2,Gemini
+What is the role of symbolism in literature?,ChatGPT,0,0,ChatGPT
+How do you write a CV/resume?,ChatGPT,0,2,Gemini
+What are the common types of IELTS writing tasks?,ChatGPT,0,2,Gemini
+What are key vocabulary types for IELTS reading?,ChatGPT,0,0,ChatGPT
+What are common grammar mistakes that lower IELTS scores?,ChatGPT,0,0,ChatGPT
+Explain the system of checks and balances.,ChatGPT,0,0,ChatGPT
+What are void and voidable contracts?,ChatGPT,0,0,ChatGPT
+What are the remedies for breach of contract?,ChatGPT,0,2,Gemini
+Define defamation and its punishment.,ChatGPT,0,0,ChatGPT
+What is an interim injunction?,ChatGPT,0,0,ChatGPT
+What is limitation in civil cases?,ChatGPT,0,2,Gemini
+What are the powers of a Magistrate under CrPC?,ChatGPT,0,0,ChatGPT
+What is cognizable vs non-cognizable offence?,ChatGPT,0,1,Claude
+Define confession and its admissibility.,ChatGPT,0,0,ChatGPT
+What is immovable property?,ChatGPT,0,0,ChatGPT
+"What is sale, gift, and exchange?",ChatGPT,0,0,ChatGPT
+What is the difference between private and public company?,ChatGPT,0,0,ChatGPT
+"Define parenchyma, collenchyma, and sclerenchyma tissues.",ChatGPT,0,2,Gemini
+What is phloem and how does it differ from xylem?,ChatGPT,0,2,Gemini
+Explain the different types of plant inflorescences.,ChatGPT,0,2,Gemini
+What is photosynthesis? Describe the light-dependent reaction.,ChatGPT,0,2,Gemini
+Define transpiration and its significance.,ChatGPT,0,0,ChatGPT
+What is taxonomy?,ChatGPT,0,2,Gemini
+What is the importance of herbarium in botany?,ChatGPT,0,2,Gemini
+What is a genus and family?,ChatGPT,0,2,Gemini
+Define cryptogams and phanerogams.,ChatGPT,0,2,Gemini
+What is a gene?,ChatGPT,0,2,Gemini
+What is mutation?,ChatGPT,0,0,ChatGPT
+What is plant tissue culture?,ChatGPT,0,0,ChatGPT
+What is ecology?,ChatGPT,0,0,ChatGPT
+Define biotic and abiotic factors.,ChatGPT,0,0,ChatGPT
+What are transgenic plants?,ChatGPT,0,0,ChatGPT
+What is double fertilization?,ChatGPT,0,0,ChatGPT
+What are fruits? Different types of fruits.,ChatGPT,0,0,ChatGPT
+What is seed dispersal? Methods of seed dispersal?,ChatGPT,0,0,ChatGPT
+What is the importance of fungi?,ChatGPT,0,0,ChatGPT
+What are the types of plant movements?,ChatGPT,0,2,Gemini
+What are the differences between criminology and criminal law?,ChatGPT,0,0,ChatGPT
+Define crime and explain its characteristics.,ChatGPT,0,0,ChatGPT
+Explain the positivist theory of crime.,ChatGPT,0,2,Gemini
+Define social disorganization theory.,ChatGPT,0,0,ChatGPT
+What is routine activity theory?,ChatGPT,0,0,ChatGPT
+What is property crime?,ChatGPT,0,0,ChatGPT
+What is drug-related crime?,ChatGPT,0,2,Gemini
+How do peer groups influence juvenile delinquency?,ChatGPT,0,0,ChatGPT
+What is the importance of rehabilitation programs?,ChatGPT,0,0,ChatGPT
+Explain the concept of serial killing.,ChatGPT,0,2,Gemini
+Discuss environmental crimes.,ChatGPT,0,0,ChatGPT
+What is actus reus?,ChatGPT,0,2,Gemini
+What are the defenses available in criminal law?,ChatGPT,0,0,ChatGPT
+What is white-collar crime in the digital age?,ChatGPT,0,0,ChatGPT
+How has terrorism evolved in the 21st century?,ChatGPT,0,0,ChatGPT
+What are floods and what factors contribute to their occurrence?,ChatGPT,0,0,ChatGPT
+Explain volcanic eruptions and their impacts.,ChatGPT,0,0,ChatGPT
+Describe industrial disasters with examples.,ChatGPT,0,0,ChatGPT
+What are greenhouse gases? Name the major ones.,ChatGPT,0,0,ChatGPT
+What is sea-level rise and its consequences?,ChatGPT,0,0,ChatGPT
+What is disaster response?,ChatGPT,0,0,ChatGPT
+Explain the importance of national disaster management authorities.,ChatGPT,0,0,ChatGPT
+What is the role of law and legislation in disaster management?,ChatGPT,0,0,ChatGPT
+Describe psychosocial support in post-disaster scenarios.,ChatGPT,0,2,Gemini
+What is climate justice?,ChatGPT,0,0,ChatGPT
+What is the significance of green infrastructure for resilience?,ChatGPT,0,0,ChatGPT
+"Define lithosphere, atmosphere, hydrosphere, and biosphere.",ChatGPT,0,0,ChatGPT
+Explain the process of volcanic eruption.,ChatGPT,0,2,Gemini
+Describe the types of plate boundaries.,ChatGPT,0,0,ChatGPT
+Explain the formation of clouds and precipitation.,ChatGPT,0,2,Gemini
+Explain the factors affecting climate.,ChatGPT,0,0,ChatGPT
+Explain the greenhouse effect and global warming.,ChatGPT,0,0,ChatGPT
+What factors influence population distribution?,ChatGPT,0,0,ChatGPT
+What is biodiversity? Why is it important?,ChatGPT,0,0,ChatGPT
+What are renewable and non-renewable resources?,ChatGPT,0,0,ChatGPT
+What is tsunami and how does it occur?,ChatGPT,0,2,Gemini
+What are mitigation and preparedness in disaster management?,ChatGPT,0,0,ChatGPT
+Describe the Sundarbans and its ecological importance.,ChatGPT,0,0,ChatGPT
+Explain how spatial data is collected and analyzed.,ChatGPT,0,0,ChatGPT
+What is the significance of thematic maps?,ChatGPT,0,0,ChatGPT
+What is global warming and its global effects?,ChatGPT,0,0,ChatGPT
+Explain the concept of sustainable cities.,ChatGPT,0,0,ChatGPT
+Describe the causes and effects of desertification.,ChatGPT,0,0,ChatGPT
+What is graphic design?,ChatGPT,0,0,ChatGPT
+What is the design process?,ChatGPT,0,0,ChatGPT
+What is the difference between vector and raster graphics?,ChatGPT,0,2,Gemini
+What is white space (negative space)?,ChatGPT,0,0,ChatGPT
+What is hierarchy in graphic design?,ChatGPT,0,0,ChatGPT
+How do you create emphasis in a design?,ChatGPT,0,0,ChatGPT
+Explain unity and harmony in design.,ChatGPT,0,0,ChatGPT
+Define baseline and x-height.,ChatGPT,0,0,ChatGPT
+Explain the importance of readability and legibility.,ChatGPT,0,0,ChatGPT
+How do you choose fonts for a design project?,ChatGPT,0,0,ChatGPT
+When is RGB used and when is CMYK used?,ChatGPT,0,0,ChatGPT
+What is branding?,ChatGPT,0,0,ChatGPT
+What is the importance of consistency in branding?,ChatGPT,0,0,ChatGPT
+Explain the rule of thirds.,ChatGPT,0,0,ChatGPT
+What are wireframes and mockups?,ChatGPT,0,0,ChatGPT
+What is UX design?,ChatGPT,0,0,ChatGPT
+What tools are used for prototyping?,ChatGPT,0,2,Gemini
+What is bleed in printing?,ChatGPT,0,2,Gemini
+What are common paper types used in printing?,ChatGPT,0,0,ChatGPT
+What is copyright and intellectual property in design?,ChatGPT,0,0,ChatGPT
+What was the significance of the Nile River to Ancient Egypt?,ChatGPT,0,0,ChatGPT
+Describe the political system of the Roman Republic.,ChatGPT,0,0,ChatGPT
+Who was Charlemagne and why is he important?,ChatGPT,0,0,ChatGPT
+What were the causes and consequences of the Age of Exploration?,ChatGPT,0,0,ChatGPT
+Explain the causes and consequences of the Great Depression.,ChatGPT,0,2,Gemini
+Describe the Mughal Empire and its impact on South Asia.,ChatGPT,0,2,Gemini
+What were the causes of the Indian Independence Movement?,ChatGPT,0,0,ChatGPT
+What was the role of the Bengal Renaissance?,ChatGPT,0,0,ChatGPT
+What were the causes and impacts of the Chinese Revolution of 1949?,ChatGPT,0,0,ChatGPT
+Explain socialism and communism.,ChatGPT,0,0,ChatGPT
+Explain the impact of imperialism on colonized countries.,ChatGPT,0,0,ChatGPT
+What are human rights and how have they evolved historically?,ChatGPT,0,0,ChatGPT
+What was the role of the Renaissance in shaping modern Western thought?,ChatGPT,0,0,ChatGPT
+What did Leonardo da Vinci contribute to art and science?,ChatGPT,0,0,ChatGPT
+Who was Simon Bolivar and why is he important?,ChatGPT,0,0,ChatGPT
+How do historians verify historical facts?,ChatGPT,0,0,ChatGPT
+What are economic and social history?,ChatGPT,0,0,ChatGPT
+What are the causes of globalization?,ChatGPT,0,0,ChatGPT
+How has migration shaped modern societies?,ChatGPT,0,0,ChatGPT
+What are the major environmental challenges of the 20th and 21st centuries?,ChatGPT,0,0,ChatGPT
+What was the significance of the 9/11 attacks?,ChatGPT,0,0,ChatGPT
+"Define data, information, and knowledge.",ChatGPT,0,0,ChatGPT
+Define Library Science.,ChatGPT,0,0,ChatGPT
+What are the objectives of a library?,ChatGPT,0,0,ChatGPT
+Define classification in library science.,ChatGPT,0,0,ChatGPT
+Explain controlled vocabulary.,ChatGPT,0,0,ChatGPT
+What is Boolean searching?,ChatGPT,0,0,ChatGPT
+What is relevance ranking?,ChatGPT,0,2,Gemini
+What is a digital library?,ChatGPT,0,2,Gemini
+Explain the difference between digital and traditional libraries.,ChatGPT,0,0,ChatGPT
+Define Information Management.,ChatGPT,0,0,ChatGPT
+Define information policy.,ChatGPT,0,0,ChatGPT
+"What are primary, secondary, and tertiary sources?",ChatGPT,0,0,ChatGPT
+Describe bibliometrics.,ChatGPT,0,0,ChatGPT
+What is citation analysis?,ChatGPT,0,2,Gemini
+What are research tools in information science?,ChatGPT,0,0,ChatGPT
+What is a thesaurus in information science?,ChatGPT,0,0,ChatGPT
+What is the impact factor?,ChatGPT,0,0,ChatGPT
+Define data visualization.,ChatGPT,0,0,ChatGPT
+What are MOOCs and their relevance to libraries?,ChatGPT,0,0,ChatGPT
+Define sovereignty in the context of IR.,ChatGPT,0,0,ChatGPT
+What is the security dilemma?,ChatGPT,0,2,Gemini
+Define non-state actors and give examples.,ChatGPT,0,2,Gemini
+What is the difference between traditional and human security?,ChatGPT,0,0,ChatGPT
+How do non-traditional security threats affect IR?,ChatGPT,0,0,ChatGPT
+How do regional organizations like the EU or ASEAN influence IR?,ChatGPT,0,0,ChatGPT
+Explain climate change as a global issue.,ChatGPT,0,0,ChatGPT
+How does migration impact international relations?,ChatGPT,0,0,ChatGPT
+Explain global health diplomacy.,ChatGPT,0,0,ChatGPT
+What is the significance of the South China Sea dispute?,ChatGPT,0,0,ChatGPT
+What is preventive diplomacy?,ChatGPT,0,0,ChatGPT
+Explain the concept of protectionism.,ChatGPT,0,0,ChatGPT
+What is noise in the communication process?,ChatGPT,0,0,ChatGPT
+What are the key principles of journalism?,ChatGPT,0,0,ChatGPT
+Explain the different types of journalism.,ChatGPT,0,0,ChatGPT
+Explain the concept of sensationalism.,ChatGPT,0,0,ChatGPT
+What is photojournalism?,ChatGPT,0,0,ChatGPT
+What are the challenges facing print media today?,ChatGPT,0,0,ChatGPT
+Define circulation and readership.,ChatGPT,0,0,ChatGPT
+What is a feature article?,ChatGPT,0,0,ChatGPT
+Describe the concept of broadcasting regulation.,ChatGPT,0,0,ChatGPT
+Explain live reporting and its challenges.,ChatGPT,0,0,ChatGPT
+Explain the role of social media in journalism.,ChatGPT,0,0,ChatGPT
+Explain the concept of online news portals.,ChatGPT,0,0,ChatGPT
+Describe the impact of mobile journalism (mojo).,ChatGPT,0,0,ChatGPT
+Define advertising and its objectives.,ChatGPT,0,0,ChatGPT
+Explain audience analysis in media management.,ChatGPT,0,0,ChatGPT
+What is global media?,ChatGPT,0,0,ChatGPT
+What are the challenges faced by developing countries in media?,ChatGPT,0,0,ChatGPT
+Explain the role of international news agencies.,ChatGPT,0,0,ChatGPT
+What are the impacts of globalization on media?,ChatGPT,0,0,ChatGPT
+Define radioactivity and radioactive decay.,ChatGPT,0,0,ChatGPT
+Explain the difference between fission and fusion.,ChatGPT,0,0,ChatGPT
+What is criticality in nuclear reactors?,ChatGPT,0,0,ChatGPT
+What isotopes are commonly used as nuclear fuel?,ChatGPT,0,0,ChatGPT
+What is an experimental fusion reactor?,ChatGPT,0,2,Gemini
+What is flux distribution in a reactor core?,ChatGPT,0,0,ChatGPT
+Describe uranium enrichment processes.,ChatGPT,0,2,Gemini
+"Define high-level, intermediate-level, and low-level radioactive waste.",ChatGPT,0,2,Gemini
+What types of shielding materials are used?,ChatGPT,0,0,ChatGPT
+"Describe conduction, convection, and radiation heat transfer in reactors.",ChatGPT,0,0,ChatGPT
+What are heat exchangers?,ChatGPT,0,0,ChatGPT
+What is radiation damage in materials?,ChatGPT,0,0,ChatGPT
+Explain the role of neutron detectors.,ChatGPT,0,0,ChatGPT
+How is reactor power measured?,ChatGPT,0,0,ChatGPT
+Describe safety interlocks in nuclear plants.,ChatGPT,0,0,ChatGPT
+Explain nuclear medicine basics.,ChatGPT,0,0,ChatGPT
+What is fusion energy and how does it differ from fission?,ChatGPT,0,0,ChatGPT
+What is nuclear desalination?,ChatGPT,0,0,ChatGPT
+What are the prospects for sustainable nuclear energy?,ChatGPT,0,0,ChatGPT
+What is time according to philosophy?,ChatGPT,0,0,ChatGPT
+What is deontology?,ChatGPT,0,0,ChatGPT
+What is equality?,ChatGPT,0,0,ChatGPT
+What is the difference between positive and negative rights?,ChatGPT,0,2,Gemini
+Explain functionalism.,ChatGPT,0,0,ChatGPT
+What is the difference between validity and soundness?,ChatGPT,0,2,Gemini
+What is propositional logic?,ChatGPT,0,0,ChatGPT
+What is predicate logic?,ChatGPT,0,0,ChatGPT
+What is the concept of divine omnipotence?,ChatGPT,0,0,ChatGPT
+Can art be objectively judged?,ChatGPT,0,0,ChatGPT
+What is existentialism?,ChatGPT,0,2,Gemini
+State Newtonâs Second Law of Motion.,ChatGPT,0,0,ChatGPT
+What is internal energy?,ChatGPT,0,0,ChatGPT
+What is the Doppler effect?,ChatGPT,0,0,ChatGPT
+What are standing waves?,ChatGPT,0,0,ChatGPT
+What is a lens?,ChatGPT,0,0,ChatGPT
+What is resistance?,ChatGPT,0,0,ChatGPT
+What is electromagnetic induction?,ChatGPT,0,0,ChatGPT
+What is the dual nature of matter?,ChatGPT,0,0,ChatGPT
+What is Bernoulliâs equation?,ChatGPT,0,0,ChatGPT
+What is the equation of continuity?,ChatGPT,0,2,Gemini
+What is the principle of conservation of charge?,ChatGPT,0,0,ChatGPT
+What is time dilation?,ChatGPT,0,0,ChatGPT
+What is democracy?,ChatGPT,0,0,ChatGPT
+What is the role of the executive?,ChatGPT,0,0,ChatGPT
+Define realism and liberalism in IR.,ChatGPT,0,0,ChatGPT
+What is the balance of power theory?,ChatGPT,0,0,ChatGPT
+What is the role of IMF and World Bank?,ChatGPT,0,0,ChatGPT
+What are the challenges to democracy?,ChatGPT,0,0,ChatGPT
+What is electoral violence?,ChatGPT,0,0,ChatGPT
+Explain Max Weberâs theory of bureaucracy.,ChatGPT,0,0,ChatGPT
+What are the challenges of nationalism today?,ChatGPT,0,0,ChatGPT
+How does misinformation affect democracy?,ChatGPT,0,0,ChatGPT
+Explain the impact of social media on political movements.,ChatGPT,0,0,ChatGPT
+What is the future of global governance?,ChatGPT,0,0,ChatGPT
+What is the role of the nervous system?,ChatGPT,0,0,ChatGPT
+What is operant conditioning?,ChatGPT,0,2,Gemini
+Who is Ivan Pavlov?,ChatGPT,0,0,ChatGPT
+What is habituation?,ChatGPT,0,0,ChatGPT
+What is extinction in conditioning?,ChatGPT,0,2,Gemini
+What is intelligence?,ChatGPT,0,0,ChatGPT
+What are the different theories of intelligence?,ChatGPT,0,2,Gemini
+What is motivation?,ChatGPT,0,0,ChatGPT
+What is the two-factor theory of emotion?,ChatGPT,0,0,ChatGPT
+Describe Freudâs psychoanalytic theory.,ChatGPT,0,0,ChatGPT
+What is schizophrenia?,ChatGPT,0,2,Gemini
+What are the types of robots based on their configuration?,ChatGPT,0,0,ChatGPT
+Explain the working of an ultrasonic sensor.,ChatGPT,0,0,ChatGPT
+What is the difference between continuous and discrete control systems?,ChatGPT,0,0,ChatGPT
+What is real-time control?,ChatGPT,0,0,ChatGPT
+Explain force sensors in robotics.,ChatGPT,0,0,ChatGPT
+What is the difference between active and passive sensors?,ChatGPT,0,0,ChatGPT
+What is system integration in mechatronics?,ChatGPT,0,0,ChatGPT
+What is signal conditioning?,ChatGPT,0,0,ChatGPT
+What are the common communication protocols used?,ChatGPT,0,0,ChatGPT
+How are robots used in agriculture?,ChatGPT,0,0,ChatGPT
+How can robots be made more socially acceptable?,ChatGPT,0,0,ChatGPT
+What is the role of regulations in robotics development?,ChatGPT,0,0,ChatGPT
+What is a variable? Differentiate between qualitative and quantitative variables.,ChatGPT,0,0,ChatGPT
+What is a frequency distribution?,ChatGPT,0,0,ChatGPT
+What is the Poisson distribution?,ChatGPT,0,2,Gemini
+What is the margin of error?,ChatGPT,0,2,Gemini
+What is standard error of an estimator?,ChatGPT,0,0,ChatGPT
+Define null hypothesis and alternative hypothesis.,ChatGPT,0,2,Gemini
+What is a p-value?,ChatGPT,0,0,ChatGPT
+What is a t-test?,ChatGPT,0,2,Gemini
+When do you use a chi-square test?,ChatGPT,0,2,Gemini
+What does the correlation coefficient measure?,ChatGPT,0,0,ChatGPT
+Explain the least squares method.,ChatGPT,0,0,ChatGPT
+What are residuals in regression?,ChatGPT,0,0,ChatGPT
+Explain the concept of within-group and between-group variance.,ChatGPT,0,0,ChatGPT
+What is the purpose of post-hoc tests?,ChatGPT,0,0,ChatGPT
+What is repeated measures ANOVA?,ChatGPT,0,2,Gemini
+When are non-parametric tests used?,ChatGPT,0,0,ChatGPT
+What is the Friedman test?,ChatGPT,0,2,Gemini
+What is autocorrelation?,ChatGPT,0,2,Gemini
+Explain moving averages.,ChatGPT,0,0,ChatGPT
+What is hypothesis testing in time series?,ChatGPT,0,0,ChatGPT
+What is factor analysis?,ChatGPT,0,0,ChatGPT
+What are Bayesian statistics?,ChatGPT,0,1,Claude
+What is survival analysis?,ChatGPT,0,0,ChatGPT
+Who are some influential filmmakers in cinema history?,ChatGPT,0,0,ChatGPT
+What is the purpose of storyboarding?,ChatGPT,0,0,ChatGPT
+What are the three-point lighting setups?,ChatGPT,0,0,ChatGPT
+What is a key light?,ChatGPT,0,0,ChatGPT
+What is Foley art?,ChatGPT,0,0,ChatGPT
+What is continuity editing?,ChatGPT,0,0,ChatGPT
+What are the elements of a screenplay?,ChatGPT,0,0,ChatGPT
+What is a three-act structure?,ChatGPT,0,0,ChatGPT
+What are storyboards used for?,ChatGPT,0,0,ChatGPT
+What is RAW format?,ChatGPT,0,2,Gemini
+What are histograms in photography?,ChatGPT,0,0,ChatGPT
+What is theatre?,ChatGPT,0,0,ChatGPT
+What are the characteristics of Greek theatre?,ChatGPT,0,0,ChatGPT
+What is medieval mystery plays?,ChatGPT,0,0,ChatGPT
+What is absurdist theatre?,ChatGPT,0,2,Gemini
+What is the difference between theatre and performance?,ChatGPT,0,0,ChatGPT
+Who was Konstantin Stanislavski?,ChatGPT,0,0,ChatGPT
+What is dramatic structure?,ChatGPT,0,0,ChatGPT
+What is subtext?,ChatGPT,0,0,ChatGPT
+What is the importance of rehearsal?,ChatGPT,0,0,ChatGPT
+What are site-specific performances?,ChatGPT,0,0,ChatGPT
+What is the role of theatre in cultural identity?,ChatGPT,0,0,ChatGPT
+What is reception theory?,ChatGPT,0,0,ChatGPT
+What role does the audience play in meaning-making?,ChatGPT,0,0,ChatGPT
+What is the difference between popular and elite theatre?,ChatGPT,0,0,ChatGPT
+What is ecotourism?,ChatGPT,0,0,ChatGPT
+What is the role of a travel agency?,ChatGPT,0,0,ChatGPT
+What is the importance of customer relationship management (CRM) in tourism?,ChatGPT,0,0,ChatGPT
+How is pricing strategy applied in hospitality?,ChatGPT,0,0,ChatGPT
+What are the types of accommodation in hospitality?,ChatGPT,0,0,ChatGPT
+Define banquet and catering services.,ChatGPT,0,0,ChatGPT
+How is quality control maintained in hospitality services?,ChatGPT,0,0,ChatGPT
+What are the impacts of tourism development?,ChatGPT,0,0,ChatGPT
+What are the modes of transport in tourism?,ChatGPT,0,2,Gemini
+What is the importance of transport infrastructure?,ChatGPT,0,0,ChatGPT
+What are contracts in tourism?,ChatGPT,0,0,ChatGPT
+What is the significance of environmental law in tourism?,ChatGPT,0,2,Gemini
+How is dispute resolution managed in tourism?,ChatGPT,0,0,ChatGPT
+What is performance appraisal in hospitality?,ChatGPT,0,0,ChatGPT
+What is the importance of customer service training?,ChatGPT,0,0,ChatGPT
+How are seasonal employees managed in tourism?,ChatGPT,0,0,ChatGPT
+How has COVID-19 affected tourism and hospitality?,ChatGPT,0,0,ChatGPT
+How does climate change affect tourism?,ChatGPT,0,0,ChatGPT
+What are the key components of excellent customer service?,ChatGPT,0,0,ChatGPT
+What is the importance of staff behavior in hospitality?,ChatGPT,0,0,ChatGPT
+What are the future trends in customer service for tourism and hospitality?,ChatGPT,0,0,ChatGPT
+What is the significance of the Seneca Falls Convention?,ChatGPT,0,0,ChatGPT
+What is toxic masculinity?,ChatGPT,0,0,ChatGPT
+What is LGBTQ+?,ChatGPT,0,0,ChatGPT
+What are the challenges faced by transgender individuals?,ChatGPT,0,0,ChatGPT
+How is fatherhood changing in modern society?,ChatGPT,0,0,ChatGPT
+How do rituals and traditions impact gender roles?,ChatGPT,0,0,ChatGPT
+What are the challenges of transgender rights today?,ChatGPT,0,0,ChatGPT
+What is #MeToo movement and its significance?,ChatGPT,0,0,ChatGPT
+How is gender equality addressed in education?,ChatGPT,0,0,ChatGPT
+How can men and women collaborate for gender justice?,ChatGPT,0,0,ChatGPT
+What is crop rotation?,ChatGPT,0,0,ChatGPT
+Name a cereal crop.,ChatGPT,0,0,ChatGPT
+What is aquaculture?,ChatGPT,0,2,Gemini
+Name a legume crop.,ChatGPT,0,0,ChatGPT
+Which vitamin is abundant in carrots?,ChatGPT,0,2,Gemini
+What is a greenhouse?,ChatGPT,0,0,ChatGPT
+What is the botanical name of maize?,ChatGPT,0,0,ChatGPT
+What is soil fertility?,ChatGPT,0,0,ChatGPT
+What is agricultural biotechnology?,ChatGPT,0,0,ChatGPT
+What is fallow land?,ChatGPT,0,0,ChatGPT
+Name one cereal used in breakfast foods.,ChatGPT,0,0,ChatGPT
+What is sustainable agriculture?,ChatGPT,0,0,ChatGPT
+What is soil testing?,ChatGPT,0,0,ChatGPT
+What is contract farming?,ChatGPT,0,0,ChatGPT
+What is an agricultural cooperative?,ChatGPT,0,0,ChatGPT
+What is land preparation?,ChatGPT,0,0,ChatGPT
+What are the characteristics of Porifera?,ChatGPT,0,0,ChatGPT
+What are the levels of organization in animal bodies?,ChatGPT,0,0,ChatGPT
+What is the digestive process in herbivores versus carnivores?,ChatGPT,0,2,Gemini
+What is the role of epigenetics in animal development?,ChatGPT,0,0,ChatGPT
+How do social structures form in animal groups?,ChatGPT,0,1,Claude
+What are the different types of reproduction in animals?,ChatGPT,0,0,ChatGPT
+How do nematodes differ from flatworms?,ChatGPT,0,0,ChatGPT
+What are the characteristics of fishes?,ChatGPT,0,0,ChatGPT
+How do amphibians differ from reptiles?,ChatGPT,0,0,ChatGPT
+How do sharks differ from bony fishes?,ChatGPT,0,0,ChatGPT
+How do circadian rhythms affect animal behavior?,ChatGPT,0,0,ChatGPT
+How do human activities impact animal populations?,ChatGPT,0,0,ChatGPT
+How do scientists study animal behavior?,ChatGPT,0,0,ChatGPT
+What is genetic engineering in animals?,ChatGPT,0,0,ChatGPT
+How are fossils important for understanding evolution?,ChatGPT,0,0,ChatGPT
+How do molecular techniques aid in species identification?,ChatGPT,0,0,ChatGPT
+How does a stack differ from a queue?,Gemini,2,2,Gemini
+Explain the concept of recursion with an example.,Gemini,2,2,Gemini
+What is a heap? Min-heap vs Max-heap.,Gemini,2,2,Gemini
+What are greedy algorithms? Give an example.,Gemini,2,2,Gemini
+Explain the concept of backtracking.,Gemini,2,2,Gemini
+What are the different types of operating systems?,Gemini,2,2,Gemini
+Explain paging and segmentation.,Gemini,2,2,Gemini
+What is a race condition?,Gemini,2,2,Gemini
+Difference between kernel mode and user mode.,Gemini,2,2,Gemini
+What is IP addressing (IPv4 vs IPv6)?,Gemini,2,2,Gemini
+What is bandwidth vs latency?,Gemini,2,2,Gemini
+What is indexing in databases?,Gemini,2,0,ChatGPT
+Explain ACID properties.,Gemini,2,2,Gemini
+What is a view in SQL?,Gemini,2,0,ChatGPT
+What are the main principles of OOP?,Gemini,2,2,Gemini
+What is polymorphism? Compile-time vs runtime.,Gemini,2,2,Gemini
+What is abstraction?,Gemini,2,2,Gemini
+What is method overloading vs overriding?,Gemini,2,2,Gemini
+What is the difference between interface and abstract class?,Gemini,2,1,Claude
+How is memory managed in C vs Java?,Gemini,2,1,Claude
+What is UML? Describe use-case and class diagrams.,Gemini,2,2,Gemini
+What is refactoring?,Gemini,2,0,ChatGPT
+Explain the difference between active and passive components.,Gemini,2,2,Gemini
+What is the significance of impedance and admittance?,Gemini,2,2,Gemini
+What is SCADA in power systems?,Gemini,2,2,Gemini
+What is corona loss?,Gemini,2,2,Gemini
+What is the function of a relay?,Gemini,2,2,Gemini
+What is stability in control systems?,Gemini,2,2,Gemini
+What is a CRO and how is it used?,Gemini,2,2,Gemini
+Explain the V-I characteristics of a thyristor.,Gemini,2,2,Gemini
+What is displacement current?,Gemini,2,2,Gemini
+How does a solar panel work?,Gemini,2,2,Gemini
+What is the difference between a normal and an inferior good?,Gemini,2,2,Gemini
+State the law of variable proportions.,Gemini,2,2,Gemini
+What is the kinked demand curve?,Gemini,2,2,Gemini
+"Explain GDP, GNP, NNP, and personal income.",Gemini,2,2,Gemini
+Explain the circular flow of income.,Gemini,2,2,Gemini
+What is public debt? How is it classified?,Gemini,2,2,Gemini
+What is the theory of comparative advantage?,Gemini,2,2,Gemini
+What is balance of trade?,Gemini,2,2,Gemini
+Explain exchange rate and its determination.,Gemini,2,2,Gemini
+What is inclusive growth?,Gemini,2,0,ChatGPT
+What is land reform?,Gemini,2,2,Gemini
+What is GST? Its advantages and limitations.,Gemini,2,2,Gemini
+What is disinvestment?,Gemini,2,2,Gemini
+What is financial inclusion?,Gemini,2,0,ChatGPT
+Discuss the concept of social control and its mechanisms in the context of Bangladesh.,Gemini,2,2,Gemini
+Discuss the role of women in the development of sociological thought.,Gemini,2,2,Gemini
+Discuss the role of education as a social institution in Bangladesh.,Gemini,2,2,Gemini
+Analyze the impact of globalization on traditional social institutions in Bangladesh.,Gemini,2,2,Gemini
+Explain the concept of social mobility. Discuss its types and factors influencing it in Bangladesh.,Gemini,2,2,Gemini
+Explain the concept of social exclusion. Discuss its manifestations in Bangladeshi society.,Gemini,2,0,ChatGPT
+Explain the concept of social movements. Discuss their role in social change in Bangladesh.,Gemini,2,2,Gemini
+Explain the concept of urban sociology. Discuss the characteristics of urban society in Bangladesh.,Gemini,2,0,ChatGPT
+Explain the concept of slums. Analyze their prevalence and problems in urban Bangladesh.,Gemini,2,2,Gemini
+Analyze the causes and consequences of poverty in Bangladesh.,Gemini,2,0,ChatGPT
+Discuss the problem of corruption in Bangladesh. Analyze its impact on society.,Gemini,2,0,ChatGPT
+Discuss the challenges of achieving sustainable development in Bangladesh.,Gemini,2,0,ChatGPT
+What are the functions of management?,Gemini,2,2,Gemini
+What is the difference between HRM and Personnel Management?,Gemini,2,2,Gemini
+What is brand management?,Gemini,2,2,Gemini
+What is the time value of money?,Gemini,2,2,Gemini
+What are the types of accounts?,Gemini,2,2,Gemini
+What is organizational culture?,Gemini,2,2,Gemini
+What is the role of operations management in manufacturing?,Gemini,2,0,ChatGPT
+What is Six Sigma?,Gemini,2,2,Gemini
+What is social entrepreneurship?,Gemini,2,2,Gemini
+What is pharmaceutics?,Gemini,2,2,Gemini
+What is bioavailability? How is it measured?,Gemini,2,2,Gemini
+Define sustained-release and controlled-release dosage forms.,Gemini,2,2,Gemini
+What are ointments and how are they prepared?,Gemini,2,2,Gemini
+What is the structure and function of aspirin?,Gemini,2,0,ChatGPT
+Explain the mechanism of action of penicillin.,Gemini,2,2,Gemini
+Define isomerism and its types.,Gemini,2,2,Gemini
+Classify plant-based drugs based on plant parts.,Gemini,2,2,Gemini
+What are glycosides? Give examples and uses.,Gemini,2,2,Gemini
+What are over-the-counter (OTC) drugs?,Gemini,2,2,Gemini
+What are essential drugs? Explain the concept.,Gemini,2,2,Gemini
+What are endotoxins and exotoxins?,Gemini,2,2,Gemini
+What is the role of vitamins in the human body?,Gemini,2,2,Gemini
+What are the biochemical roles of minerals?,Gemini,2,0,ChatGPT
+What is the Pharmacy Act of Bangladesh?,Gemini,2,2,Gemini
+What are the ethical responsibilities of a pharmacist?,Gemini,2,2,Gemini
+What are quality control and quality assurance?,Gemini,2,2,Gemini
+What is pharmacogenomics?,Gemini,2,0,ChatGPT
+What is the best strategy for reading comprehension in exams?,Gemini,2,2,Gemini
+What are common errors in English writing?,Gemini,2,2,Gemini
+What is plagiarism?,Gemini,2,2,Gemini
+What are the essentials of good communication?,Gemini,2,2,Gemini
+How do you start and end a conversation politely?,Gemini,2,2,Gemini
+What is the role of symbolism in literature?,Gemini,2,2,Gemini
+How do you write a CV/resume?,Gemini,2,2,Gemini
+What are the common types of IELTS writing tasks?,Gemini,2,0,ChatGPT
+What are key vocabulary types for IELTS reading?,Gemini,2,0,ChatGPT
+What are common grammar mistakes that lower IELTS scores?,Gemini,2,0,ChatGPT
+Explain the system of checks and balances.,Gemini,2,0,ChatGPT
+What are void and voidable contracts?,Gemini,2,2,Gemini
+What are the remedies for breach of contract?,Gemini,2,2,Gemini
+Define defamation and its punishment.,Gemini,2,2,Gemini
+What is an interim injunction?,Gemini,2,2,Gemini
+What is limitation in civil cases?,Gemini,2,2,Gemini
+What are the powers of a Magistrate under CrPC?,Gemini,2,2,Gemini
+What is cognizable vs non-cognizable offence?,Gemini,2,0,ChatGPT
+Define confession and its admissibility.,Gemini,2,2,Gemini
+What is immovable property?,Gemini,2,2,Gemini
+"What is sale, gift, and exchange?",Gemini,2,2,Gemini
+What is the difference between private and public company?,Gemini,2,2,Gemini
+"Define parenchyma, collenchyma, and sclerenchyma tissues.",Gemini,2,2,Gemini
+What is phloem and how does it differ from xylem?,Gemini,2,2,Gemini
+Explain the different types of plant inflorescences.,Gemini,2,2,Gemini
+What is photosynthesis? Describe the light-dependent reaction.,Gemini,2,2,Gemini
+Define transpiration and its significance.,Gemini,2,2,Gemini
+What is taxonomy?,Gemini,2,2,Gemini
+What is the importance of herbarium in botany?,Gemini,2,2,Gemini
+What is a genus and family?,Gemini,2,2,Gemini
+Define cryptogams and phanerogams.,Gemini,2,2,Gemini
+What is a gene?,Gemini,2,0,ChatGPT
+What is mutation?,Gemini,2,0,ChatGPT
+What is plant tissue culture?,Gemini,2,2,Gemini
+What is ecology?,Gemini,2,2,Gemini
+Define biotic and abiotic factors.,Gemini,2,2,Gemini
+What are transgenic plants?,Gemini,2,0,ChatGPT
+What is double fertilization?,Gemini,2,2,Gemini
+What are fruits? Different types of fruits.,Gemini,2,2,Gemini
+What is seed dispersal? Methods of seed dispersal?,Gemini,2,2,Gemini
+What is the importance of fungi?,Gemini,2,2,Gemini
+What are the types of plant movements?,Gemini,2,2,Gemini
+What are the differences between criminology and criminal law?,Gemini,2,2,Gemini
+Define crime and explain its characteristics.,Gemini,2,2,Gemini
+Explain the positivist theory of crime.,Gemini,2,2,Gemini
+Define social disorganization theory.,Gemini,2,2,Gemini
+What is routine activity theory?,Gemini,2,2,Gemini
+What is property crime?,Gemini,2,0,ChatGPT
+What is drug-related crime?,Gemini,2,0,ChatGPT
+How do peer groups influence juvenile delinquency?,Gemini,2,2,Gemini
+What is the importance of rehabilitation programs?,Gemini,2,2,Gemini
+Explain the concept of serial killing.,Gemini,2,2,Gemini
+Discuss environmental crimes.,Gemini,2,2,Gemini
+What is actus reus?,Gemini,2,2,Gemini
+What are the defenses available in criminal law?,Gemini,2,2,Gemini
+What is white-collar crime in the digital age?,Gemini,2,2,Gemini
+How has terrorism evolved in the 21st century?,Gemini,2,2,Gemini
+What are floods and what factors contribute to their occurrence?,Gemini,2,2,Gemini
+Explain volcanic eruptions and their impacts.,Gemini,2,0,ChatGPT
+Describe industrial disasters with examples.,Gemini,2,2,Gemini
+What are greenhouse gases? Name the major ones.,Gemini,2,2,Gemini
+What is sea-level rise and its consequences?,Gemini,2,2,Gemini
+What is disaster response?,Gemini,2,2,Gemini
+Explain the importance of national disaster management authorities.,Gemini,2,2,Gemini
+What is the role of law and legislation in disaster management?,Gemini,2,2,Gemini
+Describe psychosocial support in post-disaster scenarios.,Gemini,2,0,ChatGPT
+What is climate justice?,Gemini,2,0,ChatGPT
+What is the significance of green infrastructure for resilience?,Gemini,2,2,Gemini
+"Define lithosphere, atmosphere, hydrosphere, and biosphere.",Gemini,2,2,Gemini
+Explain the process of volcanic eruption.,Gemini,2,2,Gemini
+Describe the types of plate boundaries.,Gemini,2,2,Gemini
+Explain the formation of clouds and precipitation.,Gemini,2,2,Gemini
+Explain the factors affecting climate.,Gemini,2,2,Gemini
+Explain the greenhouse effect and global warming.,Gemini,2,2,Gemini
+What factors influence population distribution?,Gemini,2,2,Gemini
+What is biodiversity? Why is it important?,Gemini,2,2,Gemini
+What are renewable and non-renewable resources?,Gemini,2,2,Gemini
+What is tsunami and how does it occur?,Gemini,2,2,Gemini
+What are mitigation and preparedness in disaster management?,Gemini,2,2,Gemini
+Describe the Sundarbans and its ecological importance.,Gemini,2,2,Gemini
+Explain how spatial data is collected and analyzed.,Gemini,2,0,ChatGPT
+What is the significance of thematic maps?,Gemini,2,2,Gemini
+What is global warming and its global effects?,Gemini,2,2,Gemini
+Explain the concept of sustainable cities.,Gemini,2,2,Gemini
+Describe the causes and effects of desertification.,Gemini,2,0,ChatGPT
+What is graphic design?,Gemini,2,0,ChatGPT
+What is the design process?,Gemini,2,0,ChatGPT
+What is the difference between vector and raster graphics?,Gemini,2,2,Gemini
+What is white space (negative space)?,Gemini,2,2,Gemini
+What is hierarchy in graphic design?,Gemini,2,2,Gemini
+How do you create emphasis in a design?,Gemini,2,2,Gemini
+Explain unity and harmony in design.,Gemini,2,2,Gemini
+Define baseline and x-height.,Gemini,2,2,Gemini
+Explain the importance of readability and legibility.,Gemini,2,0,ChatGPT
+How do you choose fonts for a design project?,Gemini,2,2,Gemini
+When is RGB used and when is CMYK used?,Gemini,2,2,Gemini
+What is branding?,Gemini,2,2,Gemini
+What is the importance of consistency in branding?,Gemini,2,2,Gemini
+Explain the rule of thirds.,Gemini,2,2,Gemini
+What are wireframes and mockups?,Gemini,2,2,Gemini
+What is UX design?,Gemini,2,2,Gemini
+What tools are used for prototyping?,Gemini,2,2,Gemini
+What is bleed in printing?,Gemini,2,2,Gemini
+What are common paper types used in printing?,Gemini,2,2,Gemini
+What is copyright and intellectual property in design?,Gemini,2,2,Gemini
+What was the significance of the Nile River to Ancient Egypt?,Gemini,2,2,Gemini
+Describe the political system of the Roman Republic.,Gemini,2,2,Gemini
+Who was Charlemagne and why is he important?,Gemini,2,2,Gemini
+What were the causes and consequences of the Age of Exploration?,Gemini,2,2,Gemini
+Explain the causes and consequences of the Great Depression.,Gemini,2,2,Gemini
+Describe the Mughal Empire and its impact on South Asia.,Gemini,2,2,Gemini
+What were the causes of the Indian Independence Movement?,Gemini,2,2,Gemini
+What was the role of the Bengal Renaissance?,Gemini,2,0,ChatGPT
+What were the causes and impacts of the Chinese Revolution of 1949?,Gemini,2,2,Gemini
+Explain socialism and communism.,Gemini,2,2,Gemini
+Explain the impact of imperialism on colonized countries.,Gemini,2,2,Gemini
+What are human rights and how have they evolved historically?,Gemini,2,2,Gemini
+What was the role of the Renaissance in shaping modern Western thought?,Gemini,2,2,Gemini
+What did Leonardo da Vinci contribute to art and science?,Gemini,2,0,ChatGPT
+Who was Simon Bolivar and why is he important?,Gemini,2,2,Gemini
+How do historians verify historical facts?,Gemini,2,2,Gemini
+What are economic and social history?,Gemini,2,2,Gemini
+What are the causes of globalization?,Gemini,2,2,Gemini
+How has migration shaped modern societies?,Gemini,2,2,Gemini
+What are the major environmental challenges of the 20th and 21st centuries?,Gemini,2,0,ChatGPT
+What was the significance of the 9/11 attacks?,Gemini,2,2,Gemini
+"Define data, information, and knowledge.",Gemini,2,2,Gemini
+Define Library Science.,Gemini,2,2,Gemini
+What are the objectives of a library?,Gemini,2,0,ChatGPT
+Define classification in library science.,Gemini,2,2,Gemini
+Explain controlled vocabulary.,Gemini,2,2,Gemini
+What is Boolean searching?,Gemini,2,2,Gemini
+What is relevance ranking?,Gemini,2,2,Gemini
+What is a digital library?,Gemini,2,2,Gemini
+Explain the difference between digital and traditional libraries.,Gemini,2,2,Gemini
+Define Information Management.,Gemini,2,2,Gemini
+Define information policy.,Gemini,2,2,Gemini
+"What are primary, secondary, and tertiary sources?",Gemini,2,2,Gemini
+Describe bibliometrics.,Gemini,2,2,Gemini
+What is citation analysis?,Gemini,2,0,ChatGPT
+What are research tools in information science?,Gemini,2,2,Gemini
+What is a thesaurus in information science?,Gemini,2,2,Gemini
+What is the impact factor?,Gemini,2,2,Gemini
+Define data visualization.,Gemini,2,2,Gemini
+What are MOOCs and their relevance to libraries?,Gemini,2,2,Gemini
+Define sovereignty in the context of IR.,Gemini,2,2,Gemini
+What is the security dilemma?,Gemini,2,2,Gemini
+Define non-state actors and give examples.,Gemini,2,2,Gemini
+What is the difference between traditional and human security?,Gemini,2,2,Gemini
+How do non-traditional security threats affect IR?,Gemini,2,2,Gemini
+How do regional organizations like the EU or ASEAN influence IR?,Gemini,2,2,Gemini
+Explain climate change as a global issue.,Gemini,2,2,Gemini
+How does migration impact international relations?,Gemini,2,2,Gemini
+Explain global health diplomacy.,Gemini,2,0,ChatGPT
+What is the significance of the South China Sea dispute?,Gemini,2,2,Gemini
+What is preventive diplomacy?,Gemini,2,0,ChatGPT
+Explain the concept of protectionism.,Gemini,2,2,Gemini
+What is noise in the communication process?,Gemini,2,2,Gemini
+What are the key principles of journalism?,Gemini,2,2,Gemini
+Explain the different types of journalism.,Gemini,2,2,Gemini
+Explain the concept of sensationalism.,Gemini,2,2,Gemini
+What is photojournalism?,Gemini,2,2,Gemini
+What are the challenges facing print media today?,Gemini,2,2,Gemini
+Define circulation and readership.,Gemini,2,2,Gemini
+What is a feature article?,Gemini,2,2,Gemini
+Describe the concept of broadcasting regulation.,Gemini,2,2,Gemini
+Explain live reporting and its challenges.,Gemini,2,0,ChatGPT
+Explain the role of social media in journalism.,Gemini,2,2,Gemini
+Explain the concept of online news portals.,Gemini,2,0,ChatGPT
+Describe the impact of mobile journalism (mojo).,Gemini,2,0,ChatGPT
+Define advertising and its objectives.,Gemini,2,2,Gemini
+Explain audience analysis in media management.,Gemini,2,2,Gemini
+What is global media?,Gemini,2,0,ChatGPT
+What are the challenges faced by developing countries in media?,Gemini,2,2,Gemini
+Explain the role of international news agencies.,Gemini,2,0,ChatGPT
+What are the impacts of globalization on media?,Gemini,2,0,ChatGPT
+Define radioactivity and radioactive decay.,Gemini,2,2,Gemini
+Explain the difference between fission and fusion.,Gemini,2,2,Gemini
+What is criticality in nuclear reactors?,Gemini,2,2,Gemini
+What isotopes are commonly used as nuclear fuel?,Gemini,2,2,Gemini
+What is an experimental fusion reactor?,Gemini,2,2,Gemini
+What is flux distribution in a reactor core?,Gemini,2,2,Gemini
+Describe uranium enrichment processes.,Gemini,2,2,Gemini
+"Define high-level, intermediate-level, and low-level radioactive waste.",Gemini,2,2,Gemini
+What types of shielding materials are used?,Gemini,2,2,Gemini
+"Describe conduction, convection, and radiation heat transfer in reactors.",Gemini,2,0,ChatGPT
+What are heat exchangers?,Gemini,2,2,Gemini
+What is radiation damage in materials?,Gemini,2,2,Gemini
+Explain the role of neutron detectors.,Gemini,2,2,Gemini
+How is reactor power measured?,Gemini,2,2,Gemini
+Describe safety interlocks in nuclear plants.,Gemini,2,2,Gemini
+Explain nuclear medicine basics.,Gemini,2,2,Gemini
+What is fusion energy and how does it differ from fission?,Gemini,2,2,Gemini
+What is nuclear desalination?,Gemini,2,2,Gemini
+What are the prospects for sustainable nuclear energy?,Gemini,2,2,Gemini
+What is time according to philosophy?,Gemini,2,2,Gemini
+What is deontology?,Gemini,2,2,Gemini
+What is equality?,Gemini,2,2,Gemini
+What is the difference between positive and negative rights?,Gemini,2,2,Gemini
+Explain functionalism.,Gemini,2,2,Gemini
+What is the difference between validity and soundness?,Gemini,2,0,ChatGPT
+What is propositional logic?,Gemini,2,2,Gemini
+What is predicate logic?,Gemini,2,2,Gemini
+What is the concept of divine omnipotence?,Gemini,2,2,Gemini
+Can art be objectively judged?,Gemini,2,2,Gemini
+What is existentialism?,Gemini,2,2,Gemini
+State Newtonâs Second Law of Motion.,Gemini,2,2,Gemini
+What is internal energy?,Gemini,2,2,Gemini
+What is the Doppler effect?,Gemini,2,2,Gemini
+What are standing waves?,Gemini,2,0,ChatGPT
+What is a lens?,Gemini,2,2,Gemini
+What is resistance?,Gemini,2,0,ChatGPT
+What is electromagnetic induction?,Gemini,2,2,Gemini
+What is the dual nature of matter?,Gemini,2,2,Gemini
+What is Bernoulliâs equation?,Gemini,2,2,Gemini
+What is the equation of continuity?,Gemini,2,2,Gemini
+What is the principle of conservation of charge?,Gemini,2,2,Gemini
+What is time dilation?,Gemini,2,2,Gemini
+What is democracy?,Gemini,2,2,Gemini
+What is the role of the executive?,Gemini,2,2,Gemini
+Define realism and liberalism in IR.,Gemini,2,0,ChatGPT
+What is the balance of power theory?,Gemini,2,2,Gemini
+What is the role of IMF and World Bank?,Gemini,2,0,ChatGPT
+What are the challenges to democracy?,Gemini,2,2,Gemini
+What is electoral violence?,Gemini,2,2,Gemini
+Explain Max Weberâs theory of bureaucracy.,Gemini,2,2,Gemini
+What are the challenges of nationalism today?,Gemini,2,2,Gemini
+How does misinformation affect democracy?,Gemini,2,2,Gemini
+Explain the impact of social media on political movements.,Gemini,2,2,Gemini
+What is the future of global governance?,Gemini,2,2,Gemini
+What is the role of the nervous system?,Gemini,2,2,Gemini
+What is operant conditioning?,Gemini,2,2,Gemini
+Who is Ivan Pavlov?,Gemini,2,0,ChatGPT
+What is habituation?,Gemini,2,2,Gemini
+What is extinction in conditioning?,Gemini,2,0,ChatGPT
+What is intelligence?,Gemini,2,2,Gemini
+What are the different theories of intelligence?,Gemini,2,0,ChatGPT
+What is motivation?,Gemini,2,2,Gemini
+What is the two-factor theory of emotion?,Gemini,2,2,Gemini
+Describe Freudâs psychoanalytic theory.,Gemini,2,2,Gemini
+What is schizophrenia?,Gemini,2,2,Gemini
+What are the types of robots based on their configuration?,Gemini,2,2,Gemini
+Explain the working of an ultrasonic sensor.,Gemini,2,2,Gemini
+What is the difference between continuous and discrete control systems?,Gemini,2,0,ChatGPT
+What is real-time control?,Gemini,2,2,Gemini
+Explain force sensors in robotics.,Gemini,2,2,Gemini
+What is the difference between active and passive sensors?,Gemini,2,0,ChatGPT
+What is system integration in mechatronics?,Gemini,2,2,Gemini
+What is signal conditioning?,Gemini,2,2,Gemini
+What are the common communication protocols used?,Gemini,2,2,Gemini
+How are robots used in agriculture?,Gemini,2,2,Gemini
+How can robots be made more socially acceptable?,Gemini,2,0,ChatGPT
+What is the role of regulations in robotics development?,Gemini,2,2,Gemini
+What is a variable? Differentiate between qualitative and quantitative variables.,Gemini,2,2,Gemini
+What is a frequency distribution?,Gemini,2,2,Gemini
+What is the Poisson distribution?,Gemini,2,2,Gemini
+What is the margin of error?,Gemini,2,2,Gemini
+What is standard error of an estimator?,Gemini,2,2,Gemini
+Define null hypothesis and alternative hypothesis.,Gemini,2,2,Gemini
+What is a p-value?,Gemini,2,2,Gemini
+What is a t-test?,Gemini,2,2,Gemini
+When do you use a chi-square test?,Gemini,2,2,Gemini
+What does the correlation coefficient measure?,Gemini,2,2,Gemini
+Explain the least squares method.,Gemini,2,2,Gemini
+What are residuals in regression?,Gemini,2,2,Gemini
+Explain the concept of within-group and between-group variance.,Gemini,2,2,Gemini
+What is the purpose of post-hoc tests?,Gemini,2,2,Gemini
+What is repeated measures ANOVA?,Gemini,2,2,Gemini
+When are non-parametric tests used?,Gemini,2,2,Gemini
+What is the Friedman test?,Gemini,2,2,Gemini
+What is autocorrelation?,Gemini,2,2,Gemini
+Explain moving averages.,Gemini,2,2,Gemini
+What is hypothesis testing in time series?,Gemini,2,2,Gemini
+What is factor analysis?,Gemini,2,2,Gemini
+What are Bayesian statistics?,Gemini,2,2,Gemini
+What is survival analysis?,Gemini,2,2,Gemini
+Who are some influential filmmakers in cinema history?,Gemini,2,2,Gemini
+What is the purpose of storyboarding?,Gemini,2,2,Gemini
+What are the three-point lighting setups?,Gemini,2,2,Gemini
+What is a key light?,Gemini,2,2,Gemini
+What is Foley art?,Gemini,2,2,Gemini
+What is continuity editing?,Gemini,2,2,Gemini
+What are the elements of a screenplay?,Gemini,2,2,Gemini
+What is a three-act structure?,Gemini,2,0,ChatGPT
+What are storyboards used for?,Gemini,2,2,Gemini
+What is RAW format?,Gemini,2,2,Gemini
+What are histograms in photography?,Gemini,2,2,Gemini
+What is theatre?,Gemini,2,2,Gemini
+What are the characteristics of Greek theatre?,Gemini,2,2,Gemini
+What is medieval mystery plays?,Gemini,2,2,Gemini
+What is absurdist theatre?,Gemini,2,2,Gemini
+What is the difference between theatre and performance?,Gemini,2,2,Gemini
+Who was Konstantin Stanislavski?,Gemini,2,2,Gemini
+What is dramatic structure?,Gemini,2,2,Gemini
+What is subtext?,Gemini,2,2,Gemini
+What is the importance of rehearsal?,Gemini,2,2,Gemini
+What are site-specific performances?,Gemini,2,2,Gemini
+What is the role of theatre in cultural identity?,Gemini,2,2,Gemini
+What is reception theory?,Gemini,2,2,Gemini
+What role does the audience play in meaning-making?,Gemini,2,2,Gemini
+What is the difference between popular and elite theatre?,Gemini,2,1,Claude
+What is ecotourism?,Gemini,2,2,Gemini
+What is the role of a travel agency?,Gemini,2,2,Gemini
+What is the importance of customer relationship management (CRM) in tourism?,Gemini,2,2,Gemini
+How is pricing strategy applied in hospitality?,Gemini,2,2,Gemini
+What are the types of accommodation in hospitality?,Gemini,2,2,Gemini
+Define banquet and catering services.,Gemini,2,2,Gemini
+How is quality control maintained in hospitality services?,Gemini,2,2,Gemini
+What are the impacts of tourism development?,Gemini,2,2,Gemini
+What are the modes of transport in tourism?,Gemini,2,2,Gemini
+What is the importance of transport infrastructure?,Gemini,2,2,Gemini
+What are contracts in tourism?,Gemini,2,2,Gemini
+What is the significance of environmental law in tourism?,Gemini,2,2,Gemini
+How is dispute resolution managed in tourism?,Gemini,2,0,ChatGPT
+What is performance appraisal in hospitality?,Gemini,2,2,Gemini
+What is the importance of customer service training?,Gemini,2,2,Gemini
+How are seasonal employees managed in tourism?,Gemini,2,2,Gemini
+How has COVID-19 affected tourism and hospitality?,Gemini,2,2,Gemini
+How does climate change affect tourism?,Gemini,2,2,Gemini
+What are the key components of excellent customer service?,Gemini,2,0,ChatGPT
+What is the importance of staff behavior in hospitality?,Gemini,2,0,ChatGPT
+What are the future trends in customer service for tourism and hospitality?,Gemini,2,2,Gemini
+What is the significance of the Seneca Falls Convention?,Gemini,2,1,Claude
+What is toxic masculinity?,Gemini,2,2,Gemini
+What is LGBTQ+?,Gemini,2,2,Gemini
+What are the challenges faced by transgender individuals?,Gemini,2,2,Gemini
+How is fatherhood changing in modern society?,Gemini,2,2,Gemini
+How do rituals and traditions impact gender roles?,Gemini,2,2,Gemini
+What are the challenges of transgender rights today?,Gemini,2,0,ChatGPT
+What is #MeToo movement and its significance?,Gemini,2,2,Gemini
+How is gender equality addressed in education?,Gemini,2,0,ChatGPT
+How can men and women collaborate for gender justice?,Gemini,2,2,Gemini
+What is crop rotation?,Gemini,2,2,Gemini
+Name a cereal crop.,Gemini,2,2,Gemini
+What is aquaculture?,Gemini,2,2,Gemini
+Name a legume crop.,Gemini,2,2,Gemini
+Which vitamin is abundant in carrots?,Gemini,2,2,Gemini
+What is a greenhouse?,Gemini,2,2,Gemini
+What is the botanical name of maize?,Gemini,2,2,Gemini
+What is soil fertility?,Gemini,2,2,Gemini
+What is agricultural biotechnology?,Gemini,2,2,Gemini
+What is fallow land?,Gemini,2,0,ChatGPT
+Name one cereal used in breakfast foods.,Gemini,2,0,ChatGPT
+What is sustainable agriculture?,Gemini,2,2,Gemini
+What is soil testing?,Gemini,2,2,Gemini
+What is contract farming?,Gemini,2,2,Gemini
+What is an agricultural cooperative?,Gemini,2,2,Gemini
+What is land preparation?,Gemini,2,2,Gemini
+What are the characteristics of Porifera?,Gemini,2,2,Gemini
+What are the levels of organization in animal bodies?,Gemini,2,2,Gemini
+What is the digestive process in herbivores versus carnivores?,Gemini,2,2,Gemini
+What is the role of epigenetics in animal development?,Gemini,2,2,Gemini
+How do social structures form in animal groups?,Gemini,2,2,Gemini
+What are the different types of reproduction in animals?,Gemini,2,2,Gemini
+How do nematodes differ from flatworms?,Gemini,2,2,Gemini
+What are the characteristics of fishes?,Gemini,2,2,Gemini
+How do amphibians differ from reptiles?,Gemini,2,2,Gemini
+How do sharks differ from bony fishes?,Gemini,2,0,ChatGPT
+How do circadian rhythms affect animal behavior?,Gemini,2,2,Gemini
+How do human activities impact animal populations?,Gemini,2,2,Gemini
+How do scientists study animal behavior?,Gemini,2,2,Gemini
+What is genetic engineering in animals?,Gemini,2,0,ChatGPT
+How are fossils important for understanding evolution?,Gemini,2,2,Gemini
+How do molecular techniques aid in species identification?,Gemini,2,2,Gemini
+How does a stack differ from a queue?,Claude,1,0,ChatGPT
+Explain the concept of recursion with an example.,Claude,1,1,Claude
+What is a heap? Min-heap vs Max-heap.,Claude,1,0,ChatGPT
+What are greedy algorithms? Give an example.,Claude,1,1,Claude
+Explain the concept of backtracking.,Claude,1,1,Claude
+What are the different types of operating systems?,Claude,1,2,Gemini
+Explain paging and segmentation.,Claude,1,1,Claude
+What is a race condition?,Claude,1,0,ChatGPT
+Difference between kernel mode and user mode.,Claude,1,1,Claude
+What is IP addressing (IPv4 vs IPv6)?,Claude,1,2,Gemini
+What is bandwidth vs latency?,Claude,1,2,Gemini
+What is indexing in databases?,Claude,1,0,ChatGPT
+Explain ACID properties.,Claude,1,1,Claude
+What is a view in SQL?,Claude,1,1,Claude
+What are the main principles of OOP?,Claude,1,1,Claude
+What is polymorphism? Compile-time vs runtime.,Claude,1,0,ChatGPT
+What is abstraction?,Claude,1,1,Claude
+What is method overloading vs overriding?,Claude,1,1,Claude
+What is the difference between interface and abstract class?,Claude,1,2,Gemini
+How is memory managed in C vs Java?,Claude,1,1,Claude
+What is UML? Describe use-case and class diagrams.,Claude,1,0,ChatGPT
+What is refactoring?,Claude,1,1,Claude
+Explain the difference between active and passive components.,Claude,1,1,Claude
+What is the significance of impedance and admittance?,Claude,1,1,Claude
+What is SCADA in power systems?,Claude,1,1,Claude
+What is corona loss?,Claude,1,1,Claude
+What is the function of a relay?,Claude,1,1,Claude
+What is stability in control systems?,Claude,1,1,Claude
+What is a CRO and how is it used?,Claude,1,0,ChatGPT
+Explain the V-I characteristics of a thyristor.,Claude,1,1,Claude
+What is displacement current?,Claude,1,1,Claude
+How does a solar panel work?,Claude,1,1,Claude
+What is the difference between a normal and an inferior good?,Claude,1,2,Gemini
+State the law of variable proportions.,Claude,1,1,Claude
+What is the kinked demand curve?,Claude,1,1,Claude
+"Explain GDP, GNP, NNP, and personal income.",Claude,1,1,Claude
+Explain the circular flow of income.,Claude,1,1,Claude
+What is public debt? How is it classified?,Claude,1,2,Gemini
+What is the theory of comparative advantage?,Claude,1,1,Claude
+What is balance of trade?,Claude,1,0,ChatGPT
+Explain exchange rate and its determination.,Claude,1,2,Gemini
+What is inclusive growth?,Claude,1,1,Claude
+What is land reform?,Claude,1,1,Claude
+What is GST? Its advantages and limitations.,Claude,1,1,Claude
+What is disinvestment?,Claude,1,1,Claude
+What is financial inclusion?,Claude,1,1,Claude
+Discuss the concept of social control and its mechanisms in the context of Bangladesh.,Claude,1,1,Claude
+Discuss the role of women in the development of sociological thought.,Claude,1,1,Claude
+Discuss the role of education as a social institution in Bangladesh.,Claude,1,1,Claude
+Analyze the impact of globalization on traditional social institutions in Bangladesh.,Claude,1,1,Claude
+Explain the concept of social mobility. Discuss its types and factors influencing it in Bangladesh.,Claude,1,1,Claude
+Explain the concept of social exclusion. Discuss its manifestations in Bangladeshi society.,Claude,1,1,Claude
+Explain the concept of social movements. Discuss their role in social change in Bangladesh.,Claude,1,1,Claude
+Explain the concept of urban sociology. Discuss the characteristics of urban society in Bangladesh.,Claude,1,1,Claude
+Explain the concept of slums. Analyze their prevalence and problems in urban Bangladesh.,Claude,1,1,Claude
+Analyze the causes and consequences of poverty in Bangladesh.,Claude,1,1,Claude
+Discuss the problem of corruption in Bangladesh. Analyze its impact on society.,Claude,1,1,Claude
+Discuss the challenges of achieving sustainable development in Bangladesh.,Claude,1,1,Claude
+What are the functions of management?,Claude,1,1,Claude
+What is the difference between HRM and Personnel Management?,Claude,1,1,Claude
+What is brand management?,Claude,1,1,Claude
+What is the time value of money?,Claude,1,1,Claude
+What are the types of accounts?,Claude,1,2,Gemini
+What is organizational culture?,Claude,1,1,Claude
+What is the role of operations management in manufacturing?,Claude,1,1,Claude
+What is Six Sigma?,Claude,1,1,Claude
+What is social entrepreneurship?,Claude,1,1,Claude
+What is pharmaceutics?,Claude,1,1,Claude
+What is bioavailability? How is it measured?,Claude,1,1,Claude
+Define sustained-release and controlled-release dosage forms.,Claude,1,1,Claude
+What are ointments and how are they prepared?,Claude,1,1,Claude
+What is the structure and function of aspirin?,Claude,1,1,Claude
+Explain the mechanism of action of penicillin.,Claude,1,2,Gemini
+Define isomerism and its types.,Claude,1,1,Claude
+Classify plant-based drugs based on plant parts.,Claude,1,1,Claude
+What are glycosides? Give examples and uses.,Claude,1,1,Claude
+What are over-the-counter (OTC) drugs?,Claude,1,2,Gemini
+What are essential drugs? Explain the concept.,Claude,1,1,Claude
+What are endotoxins and exotoxins?,Claude,1,1,Claude
+What is the role of vitamins in the human body?,Claude,1,1,Claude
+What are the biochemical roles of minerals?,Claude,1,1,Claude
+What is the Pharmacy Act of Bangladesh?,Claude,1,1,Claude
+What are the ethical responsibilities of a pharmacist?,Claude,1,1,Claude
+What are quality control and quality assurance?,Claude,1,1,Claude
+What is pharmacogenomics?,Claude,1,1,Claude
+What is the best strategy for reading comprehension in exams?,Claude,1,1,Claude
+What are common errors in English writing?,Claude,1,1,Claude
+What is plagiarism?,Claude,1,1,Claude
+What are the essentials of good communication?,Claude,1,1,Claude
+How do you start and end a conversation politely?,Claude,1,2,Gemini
+What is the role of symbolism in literature?,Claude,1,1,Claude
+How do you write a CV/resume?,Claude,1,1,Claude
+What are the common types of IELTS writing tasks?,Claude,1,1,Claude
+What are key vocabulary types for IELTS reading?,Claude,1,1,Claude
+What are common grammar mistakes that lower IELTS scores?,Claude,1,1,Claude
+Explain the system of checks and balances.,Claude,1,1,Claude
+What are void and voidable contracts?,Claude,1,2,Gemini
+What are the remedies for breach of contract?,Claude,1,2,Gemini
+Define defamation and its punishment.,Claude,1,1,Claude
+What is an interim injunction?,Claude,1,2,Gemini
+What is limitation in civil cases?,Claude,1,2,Gemini
+What are the powers of a Magistrate under CrPC?,Claude,1,1,Claude
+What is cognizable vs non-cognizable offence?,Claude,1,1,Claude
+Define confession and its admissibility.,Claude,1,2,Gemini
+What is immovable property?,Claude,1,2,Gemini
+"What is sale, gift, and exchange?",Claude,1,1,Claude
+What is the difference between private and public company?,Claude,1,1,Claude
+"Define parenchyma, collenchyma, and sclerenchyma tissues.",Claude,1,1,Claude
+What is phloem and how does it differ from xylem?,Claude,1,1,Claude
+Explain the different types of plant inflorescences.,Claude,1,1,Claude
+What is photosynthesis? Describe the light-dependent reaction.,Claude,1,1,Claude
+Define transpiration and its significance.,Claude,1,0,ChatGPT
+What is taxonomy?,Claude,1,1,Claude
+What is the importance of herbarium in botany?,Claude,1,1,Claude
+What is a genus and family?,Claude,1,0,ChatGPT
+Define cryptogams and phanerogams.,Claude,1,1,Claude
+What is a gene?,Claude,1,1,Claude
+What is mutation?,Claude,1,1,Claude
+What is plant tissue culture?,Claude,1,1,Claude
+What is ecology?,Claude,1,1,Claude
+Define biotic and abiotic factors.,Claude,1,1,Claude
+What are transgenic plants?,Claude,1,1,Claude
+What is double fertilization?,Claude,1,1,Claude
+What are fruits? Different types of fruits.,Claude,1,1,Claude
+What is seed dispersal? Methods of seed dispersal?,Claude,1,1,Claude
+What is the importance of fungi?,Claude,1,1,Claude
+What are the types of plant movements?,Claude,1,0,ChatGPT
+What are the differences between criminology and criminal law?,Claude,1,1,Claude
+Define crime and explain its characteristics.,Claude,1,2,Gemini
+Explain the positivist theory of crime.,Claude,1,1,Claude
+Define social disorganization theory.,Claude,1,1,Claude
+What is routine activity theory?,Claude,1,1,Claude
+What is property crime?,Claude,1,2,Gemini
+What is drug-related crime?,Claude,1,1,Claude
+How do peer groups influence juvenile delinquency?,Claude,1,1,Claude
+What is the importance of rehabilitation programs?,Claude,1,1,Claude
+Explain the concept of serial killing.,Claude,1,1,Claude
+Discuss environmental crimes.,Claude,1,1,Claude
+What is actus reus?,Claude,1,1,Claude
+What are the defenses available in criminal law?,Claude,1,1,Claude
+What is white-collar crime in the digital age?,Claude,1,1,Claude
+How has terrorism evolved in the 21st century?,Claude,1,1,Claude
+What are floods and what factors contribute to their occurrence?,Claude,1,1,Claude
+Explain volcanic eruptions and their impacts.,Claude,1,1,Claude
+Describe industrial disasters with examples.,Claude,1,1,Claude
+What are greenhouse gases? Name the major ones.,Claude,1,0,ChatGPT
+What is sea-level rise and its consequences?,Claude,1,1,Claude
+What is disaster response?,Claude,1,1,Claude
+Explain the importance of national disaster management authorities.,Claude,1,1,Claude
+What is the role of law and legislation in disaster management?,Claude,1,1,Claude
+Describe psychosocial support in post-disaster scenarios.,Claude,1,1,Claude
+What is climate justice?,Claude,1,0,ChatGPT
+What is the significance of green infrastructure for resilience?,Claude,1,1,Claude
+"Define lithosphere, atmosphere, hydrosphere, and biosphere.",Claude,1,1,Claude
+Explain the process of volcanic eruption.,Claude,1,1,Claude
+Describe the types of plate boundaries.,Claude,1,1,Claude
+Explain the formation of clouds and precipitation.,Claude,1,1,Claude
+Explain the factors affecting climate.,Claude,1,1,Claude
+Explain the greenhouse effect and global warming.,Claude,1,1,Claude
+What factors influence population distribution?,Claude,1,1,Claude
+What is biodiversity? Why is it important?,Claude,1,1,Claude
+What are renewable and non-renewable resources?,Claude,1,1,Claude
+What is tsunami and how does it occur?,Claude,1,2,Gemini
+What are mitigation and preparedness in disaster management?,Claude,1,1,Claude
+Describe the Sundarbans and its ecological importance.,Claude,1,2,Gemini
+Explain how spatial data is collected and analyzed.,Claude,1,2,Gemini
+What is the significance of thematic maps?,Claude,1,1,Claude
+What is global warming and its global effects?,Claude,1,1,Claude
+Explain the concept of sustainable cities.,Claude,1,1,Claude
+Describe the causes and effects of desertification.,Claude,1,1,Claude
+What is graphic design?,Claude,1,0,ChatGPT
+What is the design process?,Claude,1,1,Claude
+What is the difference between vector and raster graphics?,Claude,1,0,ChatGPT
+What is white space (negative space)?,Claude,1,1,Claude
+What is hierarchy in graphic design?,Claude,1,1,Claude
+How do you create emphasis in a design?,Claude,1,1,Claude
+Explain unity and harmony in design.,Claude,1,1,Claude
+Define baseline and x-height.,Claude,1,1,Claude
+Explain the importance of readability and legibility.,Claude,1,1,Claude
+How do you choose fonts for a design project?,Claude,1,1,Claude
+When is RGB used and when is CMYK used?,Claude,1,1,Claude
+What is branding?,Claude,1,1,Claude
+What is the importance of consistency in branding?,Claude,1,1,Claude
+Explain the rule of thirds.,Claude,1,1,Claude
+What are wireframes and mockups?,Claude,1,1,Claude
+What is UX design?,Claude,1,1,Claude
+What tools are used for prototyping?,Claude,1,1,Claude
+What is bleed in printing?,Claude,1,1,Claude
+What are common paper types used in printing?,Claude,1,1,Claude
+What is copyright and intellectual property in design?,Claude,1,1,Claude
+What was the significance of the Nile River to Ancient Egypt?,Claude,1,1,Claude
+Describe the political system of the Roman Republic.,Claude,1,1,Claude
+Who was Charlemagne and why is he important?,Claude,1,1,Claude
+What were the causes and consequences of the Age of Exploration?,Claude,1,1,Claude
+Explain the causes and consequences of the Great Depression.,Claude,1,1,Claude
+Describe the Mughal Empire and its impact on South Asia.,Claude,1,1,Claude
+What were the causes of the Indian Independence Movement?,Claude,1,2,Gemini
+What was the role of the Bengal Renaissance?,Claude,1,1,Claude
+What were the causes and impacts of the Chinese Revolution of 1949?,Claude,1,2,Gemini
+Explain socialism and communism.,Claude,1,1,Claude
+Explain the impact of imperialism on colonized countries.,Claude,1,1,Claude
+What are human rights and how have they evolved historically?,Claude,1,2,Gemini
+What was the role of the Renaissance in shaping modern Western thought?,Claude,1,1,Claude
+What did Leonardo da Vinci contribute to art and science?,Claude,1,1,Claude
+Who was Simon Bolivar and why is he important?,Claude,1,1,Claude
+How do historians verify historical facts?,Claude,1,1,Claude
+What are economic and social history?,Claude,1,2,Gemini
+What are the causes of globalization?,Claude,1,1,Claude
+How has migration shaped modern societies?,Claude,1,1,Claude
+What are the major environmental challenges of the 20th and 21st centuries?,Claude,1,1,Claude
+What was the significance of the 9/11 attacks?,Claude,1,1,Claude
+"Define data, information, and knowledge.",Claude,1,1,Claude
+Define Library Science.,Claude,1,1,Claude
+What are the objectives of a library?,Claude,1,0,ChatGPT
+Define classification in library science.,Claude,1,1,Claude
+Explain controlled vocabulary.,Claude,1,1,Claude
+What is Boolean searching?,Claude,1,1,Claude
+What is relevance ranking?,Claude,1,1,Claude
+What is a digital library?,Claude,1,1,Claude
+Explain the difference between digital and traditional libraries.,Claude,1,1,Claude
+Define Information Management.,Claude,1,1,Claude
+Define information policy.,Claude,1,1,Claude
+"What are primary, secondary, and tertiary sources?",Claude,1,1,Claude
+Describe bibliometrics.,Claude,1,1,Claude
+What is citation analysis?,Claude,1,1,Claude
+What are research tools in information science?,Claude,1,0,ChatGPT
+What is a thesaurus in information science?,Claude,1,1,Claude
+What is the impact factor?,Claude,1,1,Claude
+Define data visualization.,Claude,1,1,Claude
+What are MOOCs and their relevance to libraries?,Claude,1,1,Claude
+Define sovereignty in the context of IR.,Claude,1,1,Claude
+What is the security dilemma?,Claude,1,2,Gemini
+Define non-state actors and give examples.,Claude,1,1,Claude
+What is the difference between traditional and human security?,Claude,1,1,Claude
+How do non-traditional security threats affect IR?,Claude,1,1,Claude
+How do regional organizations like the EU or ASEAN influence IR?,Claude,1,1,Claude
+Explain climate change as a global issue.,Claude,1,1,Claude
+How does migration impact international relations?,Claude,1,1,Claude
+Explain global health diplomacy.,Claude,1,1,Claude
+What is the significance of the South China Sea dispute?,Claude,1,1,Claude
+What is preventive diplomacy?,Claude,1,1,Claude
+Explain the concept of protectionism.,Claude,1,1,Claude
+What is noise in the communication process?,Claude,1,1,Claude
+What are the key principles of journalism?,Claude,1,1,Claude
+Explain the different types of journalism.,Claude,1,1,Claude
+Explain the concept of sensationalism.,Claude,1,1,Claude
+What is photojournalism?,Claude,1,1,Claude
+What are the challenges facing print media today?,Claude,1,2,Gemini
+Define circulation and readership.,Claude,1,1,Claude
+What is a feature article?,Claude,1,0,ChatGPT
+Describe the concept of broadcasting regulation.,Claude,1,1,Claude
+Explain live reporting and its challenges.,Claude,1,1,Claude
+Explain the role of social media in journalism.,Claude,1,1,Claude
+Explain the concept of online news portals.,Claude,1,1,Claude
+Describe the impact of mobile journalism (mojo).,Claude,1,1,Claude
+Define advertising and its objectives.,Claude,1,1,Claude
+Explain audience analysis in media management.,Claude,1,1,Claude
+What is global media?,Claude,1,1,Claude
+What are the challenges faced by developing countries in media?,Claude,1,1,Claude
+Explain the role of international news agencies.,Claude,1,1,Claude
+What are the impacts of globalization on media?,Claude,1,1,Claude
+Define radioactivity and radioactive decay.,Claude,1,1,Claude
+Explain the difference between fission and fusion.,Claude,1,1,Claude
+What is criticality in nuclear reactors?,Claude,1,1,Claude
+What isotopes are commonly used as nuclear fuel?,Claude,1,1,Claude
+What is an experimental fusion reactor?,Claude,1,1,Claude
+What is flux distribution in a reactor core?,Claude,1,1,Claude
+Describe uranium enrichment processes.,Claude,1,1,Claude
+"Define high-level, intermediate-level, and low-level radioactive waste.",Claude,1,1,Claude
+What types of shielding materials are used?,Claude,1,1,Claude
+"Describe conduction, convection, and radiation heat transfer in reactors.",Claude,1,1,Claude
+What are heat exchangers?,Claude,1,1,Claude
+What is radiation damage in materials?,Claude,1,1,Claude
+Explain the role of neutron detectors.,Claude,1,1,Claude
+How is reactor power measured?,Claude,1,1,Claude
+Describe safety interlocks in nuclear plants.,Claude,1,1,Claude
+Explain nuclear medicine basics.,Claude,1,1,Claude
+What is fusion energy and how does it differ from fission?,Claude,1,1,Claude
+What is nuclear desalination?,Claude,1,1,Claude
+What are the prospects for sustainable nuclear energy?,Claude,1,1,Claude
+What is time according to philosophy?,Claude,1,1,Claude
+What is deontology?,Claude,1,1,Claude
+What is equality?,Claude,1,1,Claude
+What is the difference between positive and negative rights?,Claude,1,1,Claude
+Explain functionalism.,Claude,1,1,Claude
+What is the difference between validity and soundness?,Claude,1,2,Gemini
+What is propositional logic?,Claude,1,0,ChatGPT
+What is predicate logic?,Claude,1,0,ChatGPT
+What is the concept of divine omnipotence?,Claude,1,1,Claude
+Can art be objectively judged?,Claude,1,1,Claude
+What is existentialism?,Claude,1,1,Claude
+State Newtonâs Second Law of Motion.,Claude,1,0,ChatGPT
+What is internal energy?,Claude,1,1,Claude
+What is the Doppler effect?,Claude,1,1,Claude
+What are standing waves?,Claude,1,1,Claude
+What is a lens?,Claude,1,1,Claude
+What is resistance?,Claude,1,1,Claude
+What is electromagnetic induction?,Claude,1,1,Claude
+What is the dual nature of matter?,Claude,1,1,Claude
+What is Bernoulliâs equation?,Claude,1,2,Gemini
+What is the equation of continuity?,Claude,1,1,Claude
+What is the principle of conservation of charge?,Claude,1,1,Claude
+What is time dilation?,Claude,1,0,ChatGPT
+What is democracy?,Claude,1,1,Claude
+What is the role of the executive?,Claude,1,1,Claude
+Define realism and liberalism in IR.,Claude,1,1,Claude
+What is the balance of power theory?,Claude,1,1,Claude
+What is the role of IMF and World Bank?,Claude,1,1,Claude
+What are the challenges to democracy?,Claude,1,1,Claude
+What is electoral violence?,Claude,1,1,Claude
+Explain Max Weberâs theory of bureaucracy.,Claude,1,1,Claude
+What are the challenges of nationalism today?,Claude,1,1,Claude
+How does misinformation affect democracy?,Claude,1,1,Claude
+Explain the impact of social media on political movements.,Claude,1,1,Claude
+What is the future of global governance?,Claude,1,0,ChatGPT
+What is the role of the nervous system?,Claude,1,1,Claude
+What is operant conditioning?,Claude,1,2,Gemini
+Who is Ivan Pavlov?,Claude,1,1,Claude
+What is habituation?,Claude,1,2,Gemini
+What is extinction in conditioning?,Claude,1,2,Gemini
+What is intelligence?,Claude,1,1,Claude
+What are the different theories of intelligence?,Claude,1,1,Claude
+What is motivation?,Claude,1,1,Claude
+What is the two-factor theory of emotion?,Claude,1,1,Claude
+Describe Freudâs psychoanalytic theory.,Claude,1,1,Claude
+What is schizophrenia?,Claude,1,1,Claude
+What are the types of robots based on their configuration?,Claude,1,0,ChatGPT
+Explain the working of an ultrasonic sensor.,Claude,1,1,Claude
+What is the difference between continuous and discrete control systems?,Claude,1,1,Claude
+What is real-time control?,Claude,1,1,Claude
+Explain force sensors in robotics.,Claude,1,1,Claude
+What is the difference between active and passive sensors?,Claude,1,2,Gemini
+What is system integration in mechatronics?,Claude,1,1,Claude
+What is signal conditioning?,Claude,1,0,ChatGPT
+What are the common communication protocols used?,Claude,1,1,Claude
+How are robots used in agriculture?,Claude,1,1,Claude
+How can robots be made more socially acceptable?,Claude,1,1,Claude
+What is the role of regulations in robotics development?,Claude,1,1,Claude
+What is a variable? Differentiate between qualitative and quantitative variables.,Claude,1,1,Claude
+What is a frequency distribution?,Claude,1,1,Claude
+What is the Poisson distribution?,Claude,1,2,Gemini
+What is the margin of error?,Claude,1,0,ChatGPT
+What is standard error of an estimator?,Claude,1,2,Gemini
+Define null hypothesis and alternative hypothesis.,Claude,1,1,Claude
+What is a p-value?,Claude,1,0,ChatGPT
+What is a t-test?,Claude,1,1,Claude
+When do you use a chi-square test?,Claude,1,1,Claude
+What does the correlation coefficient measure?,Claude,1,1,Claude
+Explain the least squares method.,Claude,1,1,Claude
+What are residuals in regression?,Claude,1,0,ChatGPT
+Explain the concept of within-group and between-group variance.,Claude,1,1,Claude
+What is the purpose of post-hoc tests?,Claude,1,1,Claude
+What is repeated measures ANOVA?,Claude,1,1,Claude
+When are non-parametric tests used?,Claude,1,1,Claude
+What is the Friedman test?,Claude,1,1,Claude
+What is autocorrelation?,Claude,1,1,Claude
+Explain moving averages.,Claude,1,1,Claude
+What is hypothesis testing in time series?,Claude,1,1,Claude
+What is factor analysis?,Claude,1,1,Claude
+What are Bayesian statistics?,Claude,1,1,Claude
+What is survival analysis?,Claude,1,1,Claude
+Who are some influential filmmakers in cinema history?,Claude,1,1,Claude
+What is the purpose of storyboarding?,Claude,1,1,Claude
+What are the three-point lighting setups?,Claude,1,1,Claude
+What is a key light?,Claude,1,1,Claude
+What is Foley art?,Claude,1,1,Claude
+What is continuity editing?,Claude,1,1,Claude
+What are the elements of a screenplay?,Claude,1,1,Claude
+What is a three-act structure?,Claude,1,2,Gemini
+What are storyboards used for?,Claude,1,1,Claude
+What is RAW format?,Claude,1,1,Claude
+What are histograms in photography?,Claude,1,1,Claude
+What is theatre?,Claude,1,1,Claude
+What are the characteristics of Greek theatre?,Claude,1,1,Claude
+What is medieval mystery plays?,Claude,1,1,Claude
+What is absurdist theatre?,Claude,1,1,Claude
+What is the difference between theatre and performance?,Claude,1,1,Claude
+Who was Konstantin Stanislavski?,Claude,1,1,Claude
+What is dramatic structure?,Claude,1,0,ChatGPT
+What is subtext?,Claude,1,1,Claude
+What is the importance of rehearsal?,Claude,1,1,Claude
+What are site-specific performances?,Claude,1,1,Claude
+What is the role of theatre in cultural identity?,Claude,1,1,Claude
+What is reception theory?,Claude,1,1,Claude
+What role does the audience play in meaning-making?,Claude,1,1,Claude
+What is the difference between popular and elite theatre?,Claude,1,1,Claude
+What is ecotourism?,Claude,1,1,Claude
+What is the role of a travel agency?,Claude,1,1,Claude
+What is the importance of customer relationship management (CRM) in tourism?,Claude,1,1,Claude
+How is pricing strategy applied in hospitality?,Claude,1,1,Claude
+What are the types of accommodation in hospitality?,Claude,1,1,Claude
+Define banquet and catering services.,Claude,1,1,Claude
+How is quality control maintained in hospitality services?,Claude,1,1,Claude
+What are the impacts of tourism development?,Claude,1,1,Claude
+What are the modes of transport in tourism?,Claude,1,1,Claude
+What is the importance of transport infrastructure?,Claude,1,1,Claude
+What are contracts in tourism?,Claude,1,1,Claude
+What is the significance of environmental law in tourism?,Claude,1,1,Claude
+How is dispute resolution managed in tourism?,Claude,1,1,Claude
+What is performance appraisal in hospitality?,Claude,1,1,Claude
+What is the importance of customer service training?,Claude,1,1,Claude
+How are seasonal employees managed in tourism?,Claude,1,1,Claude
+How has COVID-19 affected tourism and hospitality?,Claude,1,1,Claude
+How does climate change affect tourism?,Claude,1,1,Claude
+What are the key components of excellent customer service?,Claude,1,1,Claude
+What is the importance of staff behavior in hospitality?,Claude,1,1,Claude
+What are the future trends in customer service for tourism and hospitality?,Claude,1,1,Claude
+What is the significance of the Seneca Falls Convention?,Claude,1,2,Gemini
+What is toxic masculinity?,Claude,1,1,Claude
+What is LGBTQ+?,Claude,1,0,ChatGPT
+What are the challenges faced by transgender individuals?,Claude,1,1,Claude
+How is fatherhood changing in modern society?,Claude,1,1,Claude
+How do rituals and traditions impact gender roles?,Claude,1,1,Claude
+What are the challenges of transgender rights today?,Claude,1,1,Claude
+What is #MeToo movement and its significance?,Claude,1,1,Claude
+How is gender equality addressed in education?,Claude,1,1,Claude
+What is crop rotation?,Claude,1,1,Claude
+Name a cereal crop.,Claude,1,1,Claude
+What is aquaculture?,Claude,1,1,Claude
+Name a legume crop.,Claude,1,0,ChatGPT
+Which vitamin is abundant in carrots?,Claude,1,2,Gemini
+What is a greenhouse?,Claude,1,1,Claude
+What is the botanical name of maize?,Claude,1,1,Claude
+What is soil fertility?,Claude,1,1,Claude
+What is agricultural biotechnology?,Claude,1,1,Claude
+What is fallow land?,Claude,1,1,Claude
+Name one cereal used in breakfast foods.,Claude,1,2,Gemini
+What is sustainable agriculture?,Claude,1,1,Claude
+What is soil testing?,Claude,1,0,ChatGPT
+What is contract farming?,Claude,1,0,ChatGPT
+What is an agricultural cooperative?,Claude,1,1,Claude
+What is land preparation?,Claude,1,1,Claude
+How can men and women collaborate for gender justice?,Claude,1,1,Claude
+What are the characteristics of Porifera?,Claude,1,1,Claude
+What are the levels of organization in animal bodies?,Claude,1,0,ChatGPT
+What is the digestive process in herbivores versus carnivores?,Claude,1,1,Claude
+What is the role of epigenetics in animal development?,Claude,1,1,Claude
+How do social structures form in animal groups?,Claude,1,1,Claude
+What are the different types of reproduction in animals?,Claude,1,1,Claude
+How do nematodes differ from flatworms?,Claude,1,1,Claude
+What are the characteristics of fishes?,Claude,1,1,Claude
+How do amphibians differ from reptiles?,Claude,1,1,Claude
+How do sharks differ from bony fishes?,Claude,1,1,Claude
+How do circadian rhythms affect animal behavior?,Claude,1,1,Claude
+How do human activities impact animal populations?,Claude,1,1,Claude
+How do scientists study animal behavior?,Claude,1,1,Claude
+What is genetic engineering in animals?,Claude,1,1,Claude
+How are fossils important for understanding evolution?,Claude,1,1,Claude
+How do molecular techniques aid in species identification?,Claude,1,0,ChatGPT
